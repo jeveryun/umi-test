@@ -1,2 +1,0 @@
-# umi-test
-umi test
